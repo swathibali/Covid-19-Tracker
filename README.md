@@ -1,4 +1,4 @@
-<h2>Covid-19-Tracker>/h2>
+<h2>Covid-19-Tracker</h2>
   <ul>
     <li>  A React.js based web application to provide statistics of the covid
 19 cases, death, recoveries happening around the world or with
