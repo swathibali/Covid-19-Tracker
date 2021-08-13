@@ -4,7 +4,7 @@
 19 cases, death, recoveries happening around the world or with
 respect to each country.</li>
     <li> Showcases pictorial representation of the density of cases over a world map in the form geometric circles. libraries</li>
-    <li><strong>Technologies Used: </strong> React.js,CSS, Leaflet, Chart </li>
+    <li><strong>Technologies Used: </strong> React.js,CSS, Leaflet, chart Js</li>
   </ul>
   
   <a href="url"><img src="https://user-images.githubusercontent.com/54434689/129333416-b2c4f3a8-e909-45f2-82a2-b8db35e72949.png" align="left" height="350" width="480"/></a>
