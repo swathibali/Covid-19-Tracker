@@ -9,11 +9,11 @@ respect to each country.</li>
   
   <strong>Hosting Url:</strong> https://covid-19-tracker-d5d15.web.app/
   
-  <div>
- <a href="url"><img src="https://user-images.githubusercontent.com/54434689/129333416-b2c4f3a8-e909-45f2-82a2-b8db35e72949.png" align="left" height="350" width="600"/></a> </div>
- <br /><br /><br />
- <div style="margin-top:10px;">
-<a href="url"><img src="https://user-images.githubusercontent.com/54434689/129333813-19a6002c-b3f0-4962-9560-ac1d22642335.png"  align="left" height="350" width="600"/></a>
+  <div style="display:block;text-align:center">
+ <a href="url"><img src="https://user-images.githubusercontent.com/54434689/129333416-b2c4f3a8-e909-45f2-82a2-b8db35e72949.png" height="350" width="600"/></a> </div>
+
+ <div style="display:block;text-align:center">
+<a href="url"><img src="https://user-images.githubusercontent.com/54434689/129333813-19a6002c-b3f0-4962-9560-ac1d22642335.png"  height="350" width="600"/></a>
   </div>
 
   
