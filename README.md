@@ -8,13 +8,7 @@ respect to each country.</li>
   </ul>
   
   <strong>Hosting Url:</strong> https://covid-19-tracker-d5d15.web.app/
-  
-  <div style="display:block;align:center">
- <img src="https://user-images.githubusercontent.com/54434689/129333416-b2c4f3a8-e909-45f2-82a2-b8db35e72949.png" height="350" width="600"/> </div>
-
- <div style="display:block;align:center">
-<img src="https://user-images.githubusercontent.com/54434689/129333813-19a6002c-b3f0-4962-9560-ac1d22642335.png"  height="350" width="600"/>
-  </div>
+![Covid-Tracker-Latest-18](https://user-images.githubusercontent.com/54434689/129515778-8775ad98-a7b1-4e9a-8f93-17e29e7b342d.gif)
 
   
  
